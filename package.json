@@ -128,6 +128,6 @@
     "protobufjs": "^6.10.2"
   },
   "devDependencies": {
-    "aegir": "^36.0.0"
+    "aegir": "^37.4.7"
   }
 }
