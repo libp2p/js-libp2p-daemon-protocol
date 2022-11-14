@@ -1,3 +1,5 @@
+> This repository is now deprecated as it has been included as a subpackage in https://github.com/libp2p/js-libp2p-daemon/tree/master/packages/libp2p-daemon-protocol
+
 # js-libp2p-daemon-protocol
 
 <a href="http://libp2p.io/"><img src="https://img.shields.io/badge/project-libp2p-yellow.svg?style=flat-square" /></a>
